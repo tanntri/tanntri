@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tanntri
-- 👀 I’m interested in Python, backend technologies, and data related stuff
+- 👀 I’m interested in backend technologies and data related stuff
 - 🌱 I’m currently learning backend related stuff, such as nodejs, django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me tann.triyapanjawit@gmail.com or linkedin https://www.linkedin.com/in/tann-triyapanjawit-b5aa6b219/
