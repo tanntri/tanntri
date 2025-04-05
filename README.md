@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanntri
-- 👀 I’m interested in backend technologies and data related stuff
-- 🌱 I’m currently learning backend development frameworks, such as Nodejs, Express, Django, and Flask
+- 👀 I’m interested in software development, both Frontend and Backend
+- 🌱 Technologies I've used are Angular, AngularJS, React, NodeJS, ExpressJS, Flask, Postgresql and more
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me tann.triyapanjawit@gmail.com or linkedin https://www.linkedin.com/in/tanntriyapan/
 
